@@ -1,0 +1,14 @@
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/new_oop_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/new_oop_pattern.AssemblyInfoInputs.cache
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/new_oop_pattern.AssemblyInfo.cs
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/new_oop_pattern.csproj.CoreCompileInputs.cache
+/home/chase/projects/ta/new_oop_pattern/bin/Debug/net8.0/new_oop_pattern
+/home/chase/projects/ta/new_oop_pattern/bin/Debug/net8.0/new_oop_pattern.deps.json
+/home/chase/projects/ta/new_oop_pattern/bin/Debug/net8.0/new_oop_pattern.runtimeconfig.json
+/home/chase/projects/ta/new_oop_pattern/bin/Debug/net8.0/new_oop_pattern.dll
+/home/chase/projects/ta/new_oop_pattern/bin/Debug/net8.0/new_oop_pattern.pdb
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/new_oop_pattern.dll
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/refint/new_oop_pattern.dll
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/new_oop_pattern.pdb
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/new_oop_pattern.genruntimeconfig.cache
+/home/chase/projects/ta/new_oop_pattern/obj/Debug/net8.0/ref/new_oop_pattern.dll
